@@ -20,4 +20,4 @@
 
 Далі дивимося звідки прийшли спроби взоду З одного IP або з декількох
 
-![Splunk RDP Log Analy21sis](Screenshot%2026-10-07%214549.png)
+![Splunk RDP Log Analysis 2](Screenshot%202026-10-07%20214549.png)
